@@ -1,4 +1,4 @@
-import { Globe2, Ship, TrendingUp, Shield, Phone, Mail, MapPin, ArrowRight } from 'lucide-react';
+import {  Ship, TrendingUp, Shield, Phone, Mail, MapPin, ArrowRight } from 'lucide-react';
 
 function App() {
   return (
